@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.ddogring.system.api.factory.RemoteUserFallbackFactory,\
+  com.ddogring.system.api.factory.RemoteLogFallbackFactory, \
+  com.ddogring.system.api.factory.RemoteFileFallbackFactory

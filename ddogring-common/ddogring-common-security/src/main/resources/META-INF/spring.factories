@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.ddogring.common.security.config.WebMvcConfig,\
+  com.ddogring.common.security.service.TokenService,\
+  com.ddogring.common.security.aspect.PreAuthorizeAspect,\
+  com.ddogring.common.security.aspect.InnerAuthAspect,\
+  com.ddogring.common.security.handler.GlobalExceptionHandler

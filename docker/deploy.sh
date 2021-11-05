@@ -26,12 +26,12 @@ port(){
 
 # 启动基础环境（必须）
 base(){
-	docker-compose up -d ruoyi-mysql ruoyi-redis ruoyi-nacos ruoyi-nginx
+	docker-compose up -d ddogring-mysql ddogring-redis ddogring-nacos ddogring-nginx
 }
 
 # 启动程序模块（必须）
 modules(){
-	docker-compose up -d ruoyi-gateway ruoyi-auth ruoyi-modules-system
+	docker-compose up -d ddogring-gateway ddogring-auth ddogring-modules-system
 }
 
 # 关闭所有环境/模块
