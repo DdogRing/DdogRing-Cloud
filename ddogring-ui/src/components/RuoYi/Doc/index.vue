@@ -9,7 +9,7 @@ export default {
   name: 'DdogRingDoc',
   data() {
     return {
-      url: 'http://doc.ddogring.vip/ddogring-cloud'
+      url: 'http://doc.ruoyi.vip/ddogring-cloud'
     }
   },
   methods: {

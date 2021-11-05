@@ -7,7 +7,7 @@
 * 注册中心、配置中心选型Nacos，权限认证使用Redis。
 * 流量控制框架选型Sentinel，分布式事务选型Seata。
 * 如需不分离应用，请移步 [DdogRing](https://gitee.com/y_project/DdogRing)，如需分离应用，请移步 [DdogRing-Vue](https://gitee.com/y_project/DdogRing-Vue)
-* 阿里云折扣场：[点我进入](http://aly.ddogring.vip)，腾讯云秒杀场：[点我进入](http://txy.ddogring.vip)&nbsp;&nbsp;
+* 阿里云折扣场：[点我进入](http://aly.ruoyi.vip)，腾讯云秒杀场：[点我进入](http://txy.ruoyi.vip)&nbsp;&nbsp;
 * 阿里云优惠券：[点我领取](https://www.aliyun.com/minisite/goods?userCode=brki8iof&share_source=copy_link)，腾讯云优惠券：[点我领取](https://cloud.tencent.com/redirect.php?redirect=1025&cps_key=198c8df2ed259157187173bc7f4f32fd&from=console)&nbsp;&nbsp;
 
 #### 友情链接 [若依/DdogRing-Cloud](https://gitee.com/zhangmrit/ddogring-cloud) Ant Design版本。
@@ -68,8 +68,8 @@ com.ddogring
 - admin/admin123  
 - 陆陆续续收到一些打赏，为了更好的体验已用于演示服务器升级。谢谢各位小伙伴。
 
-演示地址：http://ddogring.vip  
-文档地址：http://doc.ddogring.vip
+演示地址：http://ruoyi.vip  
+文档地址：http://doc.ruoyi.vip
 
 ## 演示图
 
